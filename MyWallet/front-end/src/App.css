@@ -1,0 +1,10 @@
+.mobileLayout
+{
+  left:0;
+  right:0;
+  position: absolute;
+  width: 600px;
+  background-color: #8C11BE;
+  height: 100%;
+  margin: auto;
+}
